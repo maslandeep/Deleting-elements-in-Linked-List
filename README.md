@@ -1,1 +1,1 @@
-# Deleting-elements-in-Linked-List
+Deleting all elements in LinkedList
